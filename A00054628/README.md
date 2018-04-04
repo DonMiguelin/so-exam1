@@ -65,10 +65,10 @@ Para importar la máquina virtual, nos vamos a la barra de tareas de virtual box
 
 Luego nos dirijimos la carpeta donde se encuantra ubicado la máquina y la seleccionamos:  
 ![](Imagenes/SeleccionDebian.png)  
-![](Imagenes/Seleccion.png)  
+![](Imagenes/Seleccion.PNG)  
 
 Luego esperamos a que e importe la máquina:  
-![](Imagenes/importando.png)  
+![](Imagenes/importando.PNG)  
 Después nos saldrá lo siguiente:  
 ![](Imagenes/Maquina.png)  
 Damos click en importar y la máquina estará lista para usarse:  
