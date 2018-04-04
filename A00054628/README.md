@@ -67,11 +67,13 @@ Luego nos dirijimos la carpeta donde se encuantra ubicado la máquina y la selec
 ![](Imagenes/SeleccionDebian.png)  
 ![](Imagenes/Seleccion.PNG)  
 
-Luego esperamos a que e importe la máquina:  
-![](Imagenes/importando.PNG)  
 Después nos saldrá lo siguiente:  
 ![](Imagenes/Maquina.png)  
-Damos click en importar y la máquina estará lista para usarse:  
+
+Damos click en importar y luego esperamos a que e importe la máquina:  
+![](Imagenes/importando.PNG)  
+
+Luego de lo anterior, la máquina estará lista para usarse:  
 ![](Imagenes/FuncionamientoMaquina.png)  
 ### 8 centos7 vs debian9
                  DEBIAN 9                                                                                     CENTOS 7  
