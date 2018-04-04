@@ -68,7 +68,7 @@ Luego nos dirijimos la carpeta donde se encuantra ubicado la máquina y la selec
 ![](Imagenes/Seleccion.PNG)  
 
 Después nos saldrá lo siguiente:  
-![](Imagenes/Maquina.png)  
+![](Imagenes/Maquina.PNG)  
 
 Damos click en importar y luego esperamos a que e importe la máquina:  
 ![](Imagenes/importando.PNG)  
